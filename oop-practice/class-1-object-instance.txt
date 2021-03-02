@@ -1,0 +1,11 @@
+Instance: GlenwoodSpringsHighSchool
+Attributes:
+gradeLevels = ['freshman', 'sophmore', 'junior','senior']
+students = 720
+principal = "Mrs. Principal"
+inSession = true
+Methods:
+newStudent (students = 721)
+mergeSchools ('seventhGrade', 'eigthGrade','freshman', 'sophmore', 'junior','senior' )
+startSummer (inSession = false)
+newHire (principal = "Mr. Principal"
