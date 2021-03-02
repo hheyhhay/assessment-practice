@@ -1,0 +1,11 @@
+Class: HighSchool
+Attributes:
+gradeLevels (array)
+students (integer)
+principal (string)
+inSession (boolean)
+Methods:
+newStudent (changes students)
+mergeSchools (changes gradeLevels)
+startSummer (changes inSession to false)
+newHire (changes principal)
